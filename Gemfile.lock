@@ -2,10 +2,17 @@ PATH
   remote: .
   specs:
     pirat (0.0.1)
+      nokogiri (~> 1.10, >= 1.10.4)
+      open_uri_redirections (~> 0.2.1)
 
 GEM
   remote: https://rubygems.org/
   specs:
+    mini_portile2 (2.4.0)
+    minitest (5.11.3)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
+    open_uri_redirections (0.2.1)
     rake (10.5.0)
 
 PLATFORMS
@@ -13,6 +20,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
+  minitest (~> 5.11, >= 5.11.3)
   pirat!
   rake (~> 10.0)
 
