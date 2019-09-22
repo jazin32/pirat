@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.summary       = "aasdasd"
   spec.description   = "edited pirata gem"
   spec.homepage      = "https://github.com/jazin32/pirat"
-  spec.license       = "MIT"
+  spec.license       = "GPL-3.0"
 
   spec.files = [
     "lib/pirata.rb",
