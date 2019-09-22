@@ -5,12 +5,12 @@ require "pirat/version"
 Gem::Specification.new do |spec|
   spec.name          = "pirat"
   spec.version       = Pirat::VERSION
-  spec.authors       = ["AleksanderKamienski"]
-  spec.email         = ["aleksanderkamienski.97@wp.pl"]
+  spec.authors       = ["jazin32"]
+  spec.email         = ["majster1020@wp.pl"]
 
   spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/jazin32/pirat"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
