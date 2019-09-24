@@ -1,5 +1,5 @@
 # Pirat
 
-Its modified "pirata" gem. I just needed to add some change to use it.
+It's modified "pirata" gem. I just needed to add some change to use it.
 
 
