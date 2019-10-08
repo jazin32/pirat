@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["majster1020@wp.pl"]
 
   spec.summary       = "aasdasd"
-  spec.description   = "edited pirata gem"
+  spec.description   = "edited pirata gem - https://rubygems.org/gems/pirata/"
   spec.homepage      = "https://github.com/jazin32/pirat"
   spec.license       = "GPL-3.0"
 

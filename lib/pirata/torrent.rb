@@ -42,7 +42,7 @@ module Pirata
     # Parse HTML body of a supplied URL
     class << self
       def parse_html(url)
-        response = open(url, :allow_redirections => Pirata.config[:redirect])
+        response = open(url,'User-Agent' => 'ruby')
         Nokogiri::HTML(response)
       end
     end
